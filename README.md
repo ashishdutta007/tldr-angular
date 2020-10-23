@@ -25,3 +25,27 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+Angular CLI: 6.1.5
+Node: 12.13.1
+OS: darwin x64
+Angular: 6.1.10
+... animations, common, compiler, compiler-cli, core, forms
+... http, language-service, platform-browser
+... platform-browser-dynamic, router
+
+Package                           Version
+-----------------------------------------------------------
+@angular-devkit/architect         0.7.5
+@angular-devkit/build-angular     0.7.5
+@angular-devkit/build-optimizer   0.7.5
+@angular-devkit/build-webpack     0.7.5
+@angular-devkit/core              0.7.5
+@angular-devkit/schematics        0.7.5
+@angular/cli                      6.1.5
+@ngtools/webpack                  6.1.5
+@schematics/angular               0.7.5
+@schematics/update                0.7.5
+rxjs                              6.0.0
+typescript                        2.7.2
+webpack                           4.9.2
